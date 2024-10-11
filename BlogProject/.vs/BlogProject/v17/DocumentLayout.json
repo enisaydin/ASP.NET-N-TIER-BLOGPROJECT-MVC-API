@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enisa\\source\\repos\\BlogProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB64224-F29A-4862-8EBA-6667B2D7F141}|BlogWeb\\BlogWeb.csproj|c:\\users\\enisa\\source\\repos\\blogproject\\blogweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CB64224-F29A-4862-8EBA-6667B2D7F141}|BlogWeb\\BlogWeb.csproj|solutionrelative:blogweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03B1BDD-F953-4872-B3FF-BD58185E2ED7}|BlogData\\BlogData.csproj|c:\\users\\enisa\\source\\repos\\blogproject\\blogdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03B1BDD-F953-4872-B3FF-BD58185E2ED7}|BlogData\\BlogData.csproj|solutionrelative:blogdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB64224-F29A-4862-8EBA-6667B2D7F141}|BlogWeb\\BlogWeb.csproj|c:\\users\\enisa\\source\\repos\\blogproject\\blogweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB64224-F29A-4862-8EBA-6667B2D7F141}|BlogWeb\\BlogWeb.csproj|solutionrelative:blogweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\BlogProject\\BlogWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\BlogProject\\BlogWeb\\appsettings.json",
+              "RelativeToolTip": "BlogWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T13:42:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\BlogProject\\BlogData\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlogData\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\BlogProject\\BlogData\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BlogData\\ApplicationDbContext.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:09:57.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\BlogProject\\BlogWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BlogWeb\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\BlogProject\\BlogWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BlogWeb\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:09:40.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

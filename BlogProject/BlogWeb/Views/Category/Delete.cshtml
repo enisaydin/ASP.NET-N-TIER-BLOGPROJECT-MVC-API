@@ -1,0 +1,13 @@
+﻿@model BlogData.Entities.Category
+
+<h2>Delete Category</h2>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <div class="form-group">
+        <h4>Are you sure you want to delete this?</h4>
+        <div>@Model.Name</div>
+        <input type="hidden" asp-for="CategoryId" />
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </div>
+</form>

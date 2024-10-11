@@ -1,0 +1,23 @@
+﻿@model IEnumerable<BlogData.Entities.Notification>
+
+<h2>Notifications</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Message</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var notification in Model)
+        {
+            <tr>
+                <td>@notification.Title</td>
+                <td>@notification.Message</td>
+                <td>@notification.Date</td>
+            </tr>
+        }
+    </tbody>
+</table>

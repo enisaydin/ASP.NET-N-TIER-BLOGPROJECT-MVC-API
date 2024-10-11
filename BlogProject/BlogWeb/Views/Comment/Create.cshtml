@@ -1,0 +1,19 @@
+﻿@model BlogData.Entities.Comment
+
+<h2>Create New Comment</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Content"></label>
+        <textarea asp-for="Content" class="form-control"></textarea>
+        <span asp-validation-for="Content"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ArticleId">Article</label>
+        <select asp-for="ArticleId" asp-items="@(new SelectList(ViewData["Articles"] as List<BlogData.Entities.Article>, "Id", "Title"))" class="form-control">
+            <option value="">--Select Article--</option>
+        </select>
+        <span asp-validation-for="ArticleId"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

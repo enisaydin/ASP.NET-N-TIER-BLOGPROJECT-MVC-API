@@ -1,0 +1,32 @@
+﻿
+@model IEnumerable<BlogData.Entities.Comment>
+
+@{
+    ViewData["Title"] = "Comments";
+}
+
+<h2>Comments</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Article</th>
+            <th>User</th>
+            <th>Comment</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var comment in Model)
+        {
+            <tr>
+                <td>@comment.Article.Title</td>
+                <td>@comment.User.UserName</td>
+                <td>@comment.Content</td>
+                <td>
+                    <a asp-action="DeleteComment" asp-route-id="@comment.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

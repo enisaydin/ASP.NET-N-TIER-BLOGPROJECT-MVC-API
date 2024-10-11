@@ -1,0 +1,32 @@
+﻿@using Microsoft.AspNetCore.Mvc
+@using Microsoft.AspNetCore.Mvc.Rendering
+@using Microsoft.AspNetCore.Mvc.ViewFeatures
+@using BlogData.Entities
+@using BlogWeb.Models
+@model IEnumerable<Article>
+
+<h2>Articles</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Content</th>
+            <th>Published Date</th>
+            <th>Category</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var article in Model)
+        {
+            <tr>
+                <td>@article.Title</td>
+                <td>@article.Content</td>
+                <td>@article.PublishedDate.ToShortDateString()</td>
+                <td>@article.Category?.Name</td>
+                <td>@article.Author?.UserName</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,14 @@
+C:\Users\enisa\source\repos\BlogProject\BlogData\bin\Debug\net8.0\BlogData.deps.json
+C:\Users\enisa\source\repos\BlogProject\BlogData\bin\Debug\net8.0\BlogData.runtimeconfig.json
+C:\Users\enisa\source\repos\BlogProject\BlogData\bin\Debug\net8.0\BlogData.dll
+C:\Users\enisa\source\repos\BlogProject\BlogData\bin\Debug\net8.0\BlogData.pdb
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\BlogData.csproj.AssemblyReference.cache
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\BlogData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\BlogData.AssemblyInfoInputs.cache
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\BlogData.AssemblyInfo.cs
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\BlogData.csproj.CoreCompileInputs.cache
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\BlogData.dll
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\refint\BlogData.dll
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\BlogData.pdb
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\BlogData.genruntimeconfig.cache
+C:\Users\enisa\source\repos\BlogProject\BlogData\obj\Debug\net8.0\ref\BlogData.dll

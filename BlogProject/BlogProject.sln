@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogData", "BlogData\BlogData.csproj", "{A03B1BDD-F953-4872-B3FF-BD58185E2ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApi", "BlogApi\BlogApi.csproj", "{BE135C01-3130-455C-BF7A-C4B666A31BE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogWeb", "BlogWeb\BlogWeb.csproj", "{9CB64224-F29A-4862-8EBA-6667B2D7F141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03B1BDD-F953-4872-B3FF-BD58185E2ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03B1BDD-F953-4872-B3FF-BD58185E2ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03B1BDD-F953-4872-B3FF-BD58185E2ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03B1BDD-F953-4872-B3FF-BD58185E2ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE135C01-3130-455C-BF7A-C4B666A31BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE135C01-3130-455C-BF7A-C4B666A31BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE135C01-3130-455C-BF7A-C4B666A31BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE135C01-3130-455C-BF7A-C4B666A31BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB64224-F29A-4862-8EBA-6667B2D7F141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB64224-F29A-4862-8EBA-6667B2D7F141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB64224-F29A-4862-8EBA-6667B2D7F141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB64224-F29A-4862-8EBA-6667B2D7F141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8978EA3-4F80-44AE-83CE-FDCB5FD50135}
+	EndGlobalSection
+EndGlobal
